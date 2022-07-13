@@ -87,7 +87,7 @@ int main() {
         numberOfTurns++;
     }
     cout << "Victory!" << endl;
-    cout << "You won it " << numberOfTurns << " turns" << endl;
+    cout << "You won it in " << numberOfTurns << " turns" << endl;
 
     return 0;
 }
